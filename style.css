@@ -11,6 +11,10 @@ html {
     scroll-behavior: smooth;
     /* font-size: 10px; */
 }
+@media (max-width: 768px) {
+  /* CSS styles for mobile devices */
+}
+
 
 .sidebar {
     position: absolute;
